@@ -6,6 +6,7 @@
 # virtual environment
 .env
 .venv
+.venv312
 venv/
 ENV/
 
